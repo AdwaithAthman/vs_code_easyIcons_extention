@@ -1,6 +1,6 @@
-# easyIcons README
+# easyicons-extion README
 
-This is the README for your extension "easyIcons". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "easyicons-extion". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

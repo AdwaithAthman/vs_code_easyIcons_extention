@@ -1,7 +1,7 @@
 {
-  "name": "easyIcons",
-  "displayName": "easyIcons",
-  "description": "easy to find icons inside the vs code.",
+  "name": "easyicons-extion",
+  "displayName": "easyicons_extion",
+  "description": "get free icons",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:easyIcons.helloWorld"
+    "*"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "easyIcons.helloWorld",
+        "command": "helloWorld",
         "title": "Hello World"
       }
     ]
